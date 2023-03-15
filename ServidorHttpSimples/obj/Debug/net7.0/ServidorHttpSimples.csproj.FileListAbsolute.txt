@@ -1,0 +1,15 @@
+/workspaces/Curso-AspNet/ServidorHttpSimples/bin/Debug/net7.0/ServidorHttpSimples
+/workspaces/Curso-AspNet/ServidorHttpSimples/bin/Debug/net7.0/ServidorHttpSimples.deps.json
+/workspaces/Curso-AspNet/ServidorHttpSimples/bin/Debug/net7.0/ServidorHttpSimples.runtimeconfig.json
+/workspaces/Curso-AspNet/ServidorHttpSimples/bin/Debug/net7.0/ServidorHttpSimples.dll
+/workspaces/Curso-AspNet/ServidorHttpSimples/bin/Debug/net7.0/ServidorHttpSimples.pdb
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.csproj.AssemblyReference.cache
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.AssemblyInfoInputs.cache
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.AssemblyInfo.cs
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.csproj.CoreCompileInputs.cache
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.dll
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/refint/ServidorHttpSimples.dll
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.pdb
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ServidorHttpSimples.genruntimeconfig.cache
+/workspaces/Curso-AspNet/ServidorHttpSimples/obj/Debug/net7.0/ref/ServidorHttpSimples.dll
